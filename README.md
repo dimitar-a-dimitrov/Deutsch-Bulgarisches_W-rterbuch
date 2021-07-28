@@ -1,4 +1,4 @@
-# Deutsch-Bulgarisches_Woerterbuch
+# Deutsch-Bulgarisches Wörterbuch
 
 In 1991 at the age of 14 I was accepted in the German Language School in my home town of Burgas, Bulgaria. Back then I already had started dealing with computers some years ago. In 1986 my father brought home a Pravetz 82 machine - a clone of Apple ][ Plus, but a couple of years later he substituted it with Pravetz 8A which is a clone of Apple //e. I new that the learning curve in this school is steep and that I will have to learn many new words every day. So I thought why not creating a computer dictionary which is able to examine me how good I learn the words.
 
