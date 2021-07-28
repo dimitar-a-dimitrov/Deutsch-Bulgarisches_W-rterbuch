@@ -1,1 +1,1 @@
-# Deutsch-Bulgarisches_W-rterbuch
+# Deutsch-Bulgarisches_Woerterbuch
